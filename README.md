@@ -110,7 +110,7 @@ source venv/bin/activate
 pip install lark-parser
 ```
 
-* Entre no diretório "python-dsl/"
+* Entre no diretório "src/"
 
 * Insira o comando para executar o código:
 ```bash
