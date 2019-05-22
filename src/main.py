@@ -8,7 +8,7 @@ except NameError:
 def main():
     while True:
         # ignorando espacos
-        expr: str = input('> ')
+        expr: str = input('insira a expressao -> ')
         if len(expr) == 0:
             print("Favor inserir uma expressao")
         else:
