@@ -91,7 +91,7 @@ Para execução do projeto é recomendado utilizar uma máquina virtual do pytho
 Dentro do diretorio `/src` existe um script básico para execução do programa. O comando abaixo mostra como executar.
 
 ```shell
-    ./trab1.sh
+    ./trab2.sh
 ```
 Caso o script falhe, os comandos a seguir mostram como executar o projeto.
 
