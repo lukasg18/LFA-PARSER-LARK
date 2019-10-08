@@ -1,5 +1,6 @@
 # LFA-Parser
 Implementação de um parser descendente recursivo para uma Linguagem Livre de Contexto, chamada de MEL.
+Utilizando para a matéria de Linguagens formais e automatos.
 
 ### Informações gerais
 - **Autor**: Lucas Gomes Flegler
